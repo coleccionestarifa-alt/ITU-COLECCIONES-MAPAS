@@ -1,0 +1,8 @@
+# Fuentes privadas que nunca deben subirse aquí si se copian por error
+*.xlsx
+00_MAESTRO/
+01_IMAGENES_WEB/
+01_MINIATURAS/
+02_GENERADOR/
+05_CONTROL/
+*.zip
